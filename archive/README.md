@@ -49,13 +49,17 @@ This repository contains the code for the **Python** that I have learned.
   * [x] *days-in-month[.py](./010/010a.py)*
   * [x] *calculator[.py](./010/010a.py)*
 
-* [ ] [**11** - ](./011/README.md)
+* [x] [**11** - Blackjack Capstone](./011/README.md)
+  * [x] *blackjack-capstone[.py](./011/011.py)*
 
-* [ ] [**12** - ](./012/README.md)
+* [x] [**12** - Scope](./012/README.md)
+  * [x] *guess-number[.py](./012/012.py)*
 
-* [ ] [**13** - ](./013/README.md)
+* [x] [**13** - Debugging](./013/README.md)
+  * [x] *debugging[.py](./013/013.py)*
 
-* [ ] [**14** - ](./014/README.md)
+* [ ] [**14** - Higher-Lower](./014/README.md)
+  * [x] *higher-lower[.py](./014/014.py)*
 
 
 ### Intermediate
