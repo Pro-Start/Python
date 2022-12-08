@@ -16,15 +16,15 @@ This repository contains the code for the **Python** that I have learned.
 
 ### Beginner
 
-* [ ] [**01** - ](./001/README.md)
+* [x] [**01** - Working with Variables](./001/README.md)
 
-* [ ] [**02** - ](./002/README.md)
+* [x] [**02** - Understanding Data Types](./002/README.md)
 
-* [ ] [**03** - ](./003/README.md)
+* [x] [**03** - Control Flow and Logical Operators](./003/README.md)
 
-* [ ] [**04** - ](./004/README.md)
+* [x] [**04** - Randomisation and List](./004/README.md)
 
-* [ ] [**05** - ](./005/README.md)
+* [x] [**05** - Loops](./005/README.md)
 
 * [ ] [**06** - ](./006/README.md)
 
