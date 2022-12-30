@@ -58,17 +58,22 @@ This repository contains the code for the **Python** that I have learned.
 * [x] [**13** - Debugging](./013/README.md)
   * [x] *debugging[.py](./013/013.py)*
 
-* [ ] [**14** - Higher-Lower](./014/README.md)
+* [x] [**14** - Higher-Lower](./014/README.md)
   * [x] *higher-lower[.py](./014/014.py)*
 
 
 ### Intermediate
 
-* [ ] [**15** - ](./015/README.md)
+* [x] [**15** - Coffee Machine](./015/README.md)
+  * [x] *coffee-machine[.py](./015/015.py)*
 
-* [ ] [**16** - ](./016/README.md)
+* [x] [**16** - OOP](./016/README.md)
+  * [x] *table[.py](./016/016a.py)*
+  * [x] *coffee-machine[.py](./016/016b.py)*
 
-* [ ] [**17** - ](./017/README.md)
+* [x] [**17** - OOP Benifits](./017/README.md)
+  * [x] *class-syntax[.py](./016/016b.py)*
+  * [x] *question-bank[.py](./016/016b.py)*
 
 * [ ] [**18** - ](./018/README.md)
 
