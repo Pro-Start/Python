@@ -17,24 +17,37 @@ This repository contains the code for the **Python** that I have learned.
 ### Beginner
 
 * [x] [**01** - Working with Variables](./001/README.md)
+  * [x] *band-name-generator-end[.py](./001/001.py)*
 
 * [x] [**02** - Understanding Data Types](./002/README.md)
+  * [x] *tip-calculator-end[.py](./002/002.py)*
 
 * [x] [**03** - Control Flow and Logical Operators](./003/README.md)
+  * [x] *love-calculator[.py](./003/003.py)*
 
 * [x] [**04** - Randomisation and List](./004/README.md)
+  * [x] *rock-paper-scissors[.py](./004/004.py)*
 
 * [x] [**05** - Loops](./005/README.md)
+  * [x] *band-name-generator-end[.py](./005/005.py)*
 
-* [ ] [**06** - ](./006/README.md)
+* [x] [**06** - Functions](./006/README.md)
+  * [x] *password-generator[.py](./006/006.py)*
 
-* [ ] [**07** - ](./007/README.md)
+* [x] [**07** - Hangman](./007/README.md)
+  * [x] *hangman-step-5[.py](./007/007.py)*
 
-* [ ] [**08** - ](./008/README.md)
+* [x] [**08** - Function Parameters](./008/README.md)
+  * [x] *caeser-cipher[.py](./008/008.py)*
 
-* [ ] [**09** - ](./009/README.md)
+* [x] [**09** - Dictionaries](./009/README.md)
+  * [x] *grading-program[.py](./009/009a.py)*
+  * [x] *travel-log[.py](./009/009b.py)*
+  * [x] *blind-auction[.py](./009/009c.py)*
 
-* [ ] [**10** - ](./010/README.md)
+* [x] [**10** - Functions with Outputs](./010/README.md)
+  * [x] *days-in-month[.py](./010/010a.py)*
+  * [x] *calculator[.py](./010/010a.py)*
 
 * [ ] [**11** - ](./011/README.md)
 
