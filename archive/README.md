@@ -72,10 +72,16 @@ This repository contains the code for the **Python** that I have learned.
   * [x] *coffee-machine[.py](./016/016b.py)*
 
 * [x] [**17** - OOP Benifits](./017/README.md)
-  * [x] *class-syntax[.py](./016/016b.py)*
-  * [x] *question-bank[.py](./016/016b.py)*
+  * [x] *class-syntax[.py](./017/017a.py)*
+  * [x] *question-bank[.py](./017/017b.py)*
 
-* [ ] [**18** - ](./018/README.md)
+* [x] [**18** - Turtle & GUI](./018/README.md)
+  * [x] *basics-of-turtle[.py](./018/018a.py)*
+  * [x] *shapes[.py](./018/018b.py)*
+  * [x] *random-walk[.py](./018/018c.py)*
+  * [x] *spirograph[.py](./018/018d.py)*
+  * [x] *hirst-painting[.py](./018/018e.py)*
+
 
 * [ ] [**19** - ](./019/README.md)
 
