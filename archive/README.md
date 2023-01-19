@@ -82,14 +82,18 @@ This repository contains the code for the **Python** that I have learned.
   * [x] *spirograph[.py](./018/018d.py)*
   * [x] *hirst-painting[.py](./018/018e.py)*
 
+* [x] [**19** - Higher Order Functions](./019/README.md)
+  * [x] *turtle-motions[.py](./019/019a.py)*
+  * [x] *turtle-race[.py](./019/019b.py)*
 
-* [ ] [**19** - ](./019/README.md)
+* [x] [**20** - Animation & Coordinates **(Snake 1)**](./020/README.md)
+  * [x] *snake-1[.py](./020/main.py)*
 
-* [ ] [**20** - ](./020/README.md)
-
-* [ ] [**21** - ](./021/README.md)
+* [x] [**21** - Inheritance & Slicing **(Snake 2)**](./021/README.md)
+  * [x] *snake-2[.py](./021/main.py)*
 
 * [ ] [**22** - ](./022/README.md)
+  * [x] *snake-2[.py](./022/main.py)*
 
 * [ ] [**23** - ](./023/README.md)
 
