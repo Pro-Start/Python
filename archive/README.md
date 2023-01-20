@@ -90,16 +90,21 @@ This repository contains the code for the **Python** that I have learned.
   * [x] *snake-1[.py](./020/main.py)*
 
 * [x] [**21** - Inheritance & Slicing **(Snake 2)**](./021/README.md)
+  * [x] *inheritance-syntax[.py](./021/021.py)*
   * [x] *snake-2[.py](./021/main.py)*
 
-* [ ] [**22** - ](./022/README.md)
-  * [x] *snake-2[.py](./022/main.py)*
+* [x] [**22** - Pong Game](./022/README.md)
+  * [x] *pong-game[.py](./022/main.py)*
 
-* [ ] [**23** - ](./023/README.md)
+* [x] [**23** - Turtle Cross](./023/README.md)
+  * [x] *turtle-cross[.py](./023/main.py)*
 
-* [ ] [**24** - ](./024/README.md)
+* [x] [**24** - Files & Dir**(Snake 3)**](./024/README.md)
+  * [x] *file-syntax[.py](./024/024.py)*
+  * [x] *snake-3[.py](./024/snake/main.py)*
 
-* [ ] [**25** - ](./025/README.md)
+* [x] [**25** - Pandas](./025/README.md)
+  * [x] *us-state[.py](./025/025.py)*
 
 * [ ] [**26** - ](./026/README.md)
 
