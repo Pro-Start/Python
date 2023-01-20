@@ -1,13 +1,9 @@
-# 22 - 
-
-### Topics Covered
-
-
+# 22 - Pong Game
 
 
 ###  Materials
 
-* [Python File - snake-1](./main.py)
+* [Python File - pong-game](./main.py)
 
 ---
 
