@@ -133,15 +133,20 @@ This repository contains the code for the **Python** that I have learned.
 * [x] [**33** - API](./033/README.md)
   * [x] *api [.py](./033/033.py)*
 
-* [ ] [**34** - ](./034/README.md)
+* [x] [**34** - Quizzler](./034/README.md)
+  * [x] *quizzler [.py](./034/034.py)*
 
-* [ ] [**35** - ](./035/README.md)
+* [x] [**35** - Weather-SMS](./035/README.md)
+  * [x] *weather-sms [.py](./035/035.py)*
 
-* [ ] [**36** - ](./036/README.md)
+* [x] [**36** - Trading-SMS](./036/README.md)
+  * [x] *trading-sms [.py](./036/036.py)*
 
-* [ ] [**37** - ](./037/README.md)
+* [x] [**37** - HTTP POST](./037/README.md)
+  * [x] *habbit-tracker [.py](./037/037.py)*
 
-* [ ] [**38** - ](./038/README.md)
+* [x] [**38** - Workout Tracking with Google Sheets](./038/README.md)
+  * [x] *workout-tracker [.py](./038/038.py)*
 
 * [ ] [**39** - ](./039/README.md)
 
