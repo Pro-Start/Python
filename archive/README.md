@@ -106,11 +106,15 @@ This repository contains the code for the **Python** that I have learned.
 * [x] [**25** - Pandas](./025/README.md)
   * [x] *us-state[.py](./025/025.py)*
 
-* [ ] [**26** - ](./026/README.md)
+* [x] [**26** - Comprehension](./026/README.md)
+  * [x] *comprehension [.py](./026/026.py)*
 
-* [ ] [**27** - ](./027/README.md)
+* [x] [**27** - GUI & Args](./027/README.md)
+  * [x] *tkinter-&-args-syntax [.py](./027/027.py)*
+  * [x] *mile-to-km [.py](./027/miletokm.py)*
 
-* [ ] [**28** - ](./028/README.md)
+* [x] [**28** - Pomodoro](./028/README.md)
+  * [x] *pomodoro [.py](./028/028.py)*
 
 * [ ] [**29** - ](./029/README.md)
 
