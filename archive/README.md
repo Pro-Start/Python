@@ -29,10 +29,10 @@ This repository contains the code for the **Python** that I have learned.
   * [x] *rock-paper-scissors[.py](./004/004.py)*
 
 * [x] [**05** - Loops](./005/README.md)
-  * [x] *band-name-generator-end[.py](./005/005.py)*
+  * [x] *password-generator[.py](./005/005.py)*
 
 * [x] [**06** - Functions](./006/README.md)
-  * [x] *password-generator[.py](./006/006.py)*
+  * [x] *reeborg-world[.py](./006/006.py)*
 
 * [x] [**07** - Hangman](./007/README.md)
   * [x] *hangman-step-5[.py](./007/007.py)*
@@ -116,9 +116,12 @@ This repository contains the code for the **Python** that I have learned.
 * [x] [**28** - Pomodoro](./028/README.md)
   * [x] *pomodoro [.py](./028/028.py)*
 
-* [ ] [**29** - ](./029/README.md)
+* [x] [**29** - Password Generator](./029/README.md)
+  * [x] *password-generator-1 [.py](./029/029.py)*
 
-* [ ] [**30** - ](./030/README.md)
+* [x] [**30** - Error, Exceptions, JSON](./030/README.md)
+  * [x] *try-catch-syntax [.py](./030/030syntax.py)*
+  * [x] *password-generator-2 [.py](./030/030.py)*
 
 * [ ] [**31** - ](./031/README.md)
 
