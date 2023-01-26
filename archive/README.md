@@ -123,11 +123,15 @@ This repository contains the code for the **Python** that I have learned.
   * [x] *try-catch-syntax [.py](./030/030syntax.py)*
   * [x] *password-generator-2 [.py](./030/030.py)*
 
-* [ ] [**31** - ](./031/README.md)
+* [x] [**31** - Flash Card](./031/README.md)
+  * [x] *flash-card [.py](./031/031.py)*
 
-* [ ] [**32** - ](./032/README.md)
+* [x] [**32** - Email & Dates](./032/README.md)
+  * [x] *birthday-email [.py](./032/032.py)*
+  * [x] *email-syntax--email-random-quote [.py](./032/bin/email.py)*
 
-* [ ] [**33** - ](./033/README.md)
+* [x] [**33** - API](./033/README.md)
+  * [x] *api [.py](./033/033.py)*
 
 * [ ] [**34** - ](./034/README.md)
 
