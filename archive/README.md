@@ -148,24 +148,29 @@ This repository contains the code for the **Python** that I have learned.
 * [x] [**38** - Workout Tracking with Google Sheets](./038/README.md)
   * [x] *workout-tracker [.py](./038/038.py)*
 
-* [ ] [**39** - ](./039/README.md)
+* [x] [**39** - Flights SMS](./039/README.md)
+  * [x] * flight-sms[.py](./039/039.py)*
 
-* [ ] [**40** - ](./040/README.md)
+* [x] [**40** - Flights Email Registration](./040/README.md)
+  * [x] *flights-email-registration [.py](./040/040.py)*
 
 
 ### Intermediate - Web Development
 
-* [ ] [**41** - ](./041/README.md)
+* [x] [**41** - Introduction to HTML](./041/README.md)
 
-* [ ] [**42** - ](./042/README.md)
+* [x] [**42** - Intermediate HTML](./042/README.md)
 
-* [ ] [**43** - ](./043/README.md)
+* [x] [**43** - Introduction to CSS](./043/README.md)
 
-* [ ] [**44** - ](./044/README.md)
+* [x] [**44** - Intermediate CSS](./044/README.md)
 
-* [ ] [**45** - ](./045/README.md)
+* [x] [**45** - Web Scraping and Beautiful Soup](./045/README.md)
+  * [x] *scrapping-syntax [.py](./045/045.py)*
+  * [x] *scrapping-simple-project [.py](./045/main.py)*
 
-* [ ] [**46** - ](./046/README.md)
+* [x] [**46** - Spotify Playlist](./046/README.md)
+  * [x] *spotify-playlist [.py](./046/046.py)*
 
 * [ ] [**47** - ](./047/README.md)
 
